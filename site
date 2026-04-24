@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dependência Tecnológica</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Dependência Tecnológica</h1>
+        <p>
+        A dependência tecnológica é um tipo de vício em que uma pessoa não consegue ficar sem usar certos dispositivos ou tecnologias.
+        Esse comportamento pode afetar negativamente a qualidade de vida e até a capacidade de realizar tarefas sem auxílio digital.
+    <h2>Isso é um problema sério?</h2>
+    <p>
+        Sim. O uso excessivo de tecnologia pode causar isolamento social, perda de produtividade,
+        ansiedade e dificuldade de concentração.
+    <h2>Tipos mais comuns de dependência tecnológica</h2>
+
+    <ul>
+        <li><b>Redes sociais e mensageiros:</b> uso excessivo e necessidade constante de notificações.</li>
+        <li><b>Smartphones e tablets:</b> checagem constante e dependência para comunicação.</li>
+        <li><b>Jogos online:</b> vício em entretenimento virtual.</li>
+        <li><b>Compras online:</b> uso para satisfação emocional.</li>
+        <li><b>Streaming de vídeos:</b> perda de tempo e desinteresse pelo mundo real.</li>
+        <li><b>Aplicativos:</b> distração constante no trabalho ou estudo.</li>
+        <li><b>Inteligência Artificial:</b> dependência para decisões e comunicação.</li>
+        <li><b>Casa inteligente:</b> dependência de assistentes digitais.</li>
+        <li><b>Criptomoedas:</b> risco financeiro e obsessão por investimentos.</li>
+        <li><b>Realidade virtual/aumentada:</b> afastamento do mundo real.</li>
+    </ul>
+
+    <h2>Como evitar a dependência?</h2>
+
+    <ul>
+        <li>Defina limites de tempo para uso de tecnologia;</li>
+        <li>Tenha hobbies fora do mundo digital;</li>
+        <li>Conecte-se com pessoas no mundo real;</li>
+        <li>Faça pausas durante o uso do computador;</li>
+        <li>Reserve momentos sem tecnologia;</li>
+        <li>Use a tecnologia de forma consciente.</li>
+    </ul>
+
+    <h2>Conclusão</h2>
+
+    <p>
+        A tecnologia é uma ferramenta poderosa, mas deve ser usada com equilíbrio.
+        Ela deve melhorar sua vida — não prejudicar ela.
+    </p>
+
+    <img src="https://psicoter.com.br/wp-content/uploads/2022/04/Dependencia-Tecnologica-1200x776.png" alt="Tecnologia" width="400">
+    <iframe src="https://www.meteoblue.com/en/weather/maps/widget/s%c3%a3o-paulo_brazil_3448439?windAnimation=1&gust=1&satellite=1&cloudsAndPrecipitation=1&temperature=1&sunshine=1&extremeForecastIndex=1&geoloc=fixed&tempunit=C&lengthunit=metric&windunit=km%252Fh&zoom=5&autowidth=auto&user_key=85b54c595f2fb67e&embed_key=1b3f799f0a921b64&sig=c3f89be617a90e37567a5d7d4aba51524e1311b7beb9e1a13ea4f57fb8e2c56b" frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 100%;height: 700px;border: 0;overflow: hidden;"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/en/weather/week/index" target="_blank" rel="noopener">meteoblue</a></div>
+</body>
+</html>
